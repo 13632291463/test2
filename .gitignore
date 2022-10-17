@@ -1,0 +1,37 @@
+bin
+obj
+packages
+Output
+.vs
+*.pdb
+*.cache
+.idea
+*.suo
+
+Tool/nginx-1.12.2/logs/access.log
+Tool/nginx-1.12.2/logs/error.log
+Tool/nginx-1.12.2/logs/nginx.pid
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostView.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddInSideAdapters/AddInSideAdapter.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddInViews/AddInView.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/Contracts/Contract.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostApplication.exe
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostApplication.exe.config
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostView.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddIns/NegativeImageAddIn/NegativeImageAddIn.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostApplication.exe
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostSideAdapters/HostSideAdapter.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddIns/NegativeImageAddIn/NegativeImageAddIn.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddInSideAdapters/AddInSideAdapter.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddInViews/AddInView.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/Contracts/Contract.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostApplication.exe
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostSideAdapters/HostSideAdapter.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostView.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddIns/NegativeImageAddIn/NegativeImageAddIn.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddInSideAdapters/AddInSideAdapter.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/AddInViews/AddInView.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/Contracts/Contract.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostApplication.exe
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostSideAdapters/HostSideAdapter.dll
+Pro WPF 4.5 in C\#/Chapter32 插件模型/AddInWithAutomation/Output/HostView.dll
